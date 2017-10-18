@@ -9,7 +9,4 @@ If this code is used in full or part to produce further scientific publications 
 
 For more information please refer to the paper above and the PhD thesis of Andrew M. Goldsborough: http://wrap.warwick.ac.uk/id/eprint/70003
 
-
-
-
-
+The code uses the "ncon" function by R. N. C. Pfeifer, G. Evenbly, S. Singh, G. Vidal, arXiv:1402.0939. http://arxiv.org/abs/1402.0939. The code can be downloaded by selecting "other formats" and "download source" on arXiv.
